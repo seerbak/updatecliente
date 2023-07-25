@@ -1,0 +1,1758 @@
+[ 2023-07-17 16:50:24,394 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:50:28,444 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:50:28,447 ] Disconnected from gameserver
+[ 2023-07-17 16:50:29,586 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 16:50:29,587 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:50:30,548 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:50:33,644 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:50:34,694 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:50:38,743 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:50:38,746 ] Disconnected from gameserver
+[ 2023-07-17 16:50:39,896 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 16:50:39,896 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:50:40,859 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:50:43,994 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:50:44,993 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:50:45,005 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:53:26,744 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 16:53:26,812 ] Disconnected from gameserver
+[ 2023-07-17 16:53:29,577 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:53:30,514 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 16:53:30,516 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:53:31,468 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:53:34,593 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:53:35,593 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:53:39,693 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:53:39,696 ] Disconnected from gameserver
+[ 2023-07-17 16:53:40,839 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 16:53:40,840 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:53:41,799 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:53:44,943 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:53:45,943 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:53:50,043 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:53:50,046 ] Disconnected from gameserver
+[ 2023-07-17 16:53:51,193 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 16:53:51,244 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:53:52,156 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:53:55,343 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:53:56,344 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:53:56,853 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:57:37,594 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 16:57:37,665 ] Disconnected from gameserver
+[ 2023-07-17 16:57:41,185 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:57:41,572 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 16:57:41,574 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:57:42,533 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:57:45,644 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:57:46,644 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:57:50,694 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:57:50,698 ] Disconnected from gameserver
+[ 2023-07-17 16:57:51,841 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 16:57:51,842 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:57:52,799 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:57:55,943 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:57:56,943 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:58:01,044 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:58:01,047 ] Disconnected from gameserver
+[ 2023-07-17 16:58:02,203 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 16:58:02,243 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:58:03,158 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 16:58:06,393 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 16:58:07,394 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 16:58:07,404 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:01:01,544 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 17:01:01,614 ] Disconnected from gameserver
+[ 2023-07-17 17:01:05,547 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:01:06,141 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:01:06,143 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:01:07,109 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:01:10,194 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:01:11,244 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:01:15,294 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:01:15,297 ] Disconnected from gameserver
+[ 2023-07-17 17:01:16,446 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:01:16,494 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:01:17,406 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:01:20,593 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:01:21,593 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:01:25,643 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:01:25,646 ] Disconnected from gameserver
+[ 2023-07-17 17:01:26,797 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:01:26,798 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:01:27,750 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:01:30,844 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:01:31,894 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:01:31,894 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:07:28,637 ] Using spritesheet cache size of 910
+[ 2023-07-17 17:07:29,660 ] Asset loading complete
+[ 2023-07-17 17:07:31,171 ] All sound assets loaded
+[ 2023-07-17 17:07:33,621 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:07:35,386 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-17 17:07:35,386 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-17 17:07:35,387 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-17 17:07:35,437 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:07:35,442 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:07:36,405 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:07:39,513 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:07:40,513 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:07:44,613 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:07:44,617 ] Disconnected from gameserver
+[ 2023-07-17 17:07:45,855 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:07:45,857 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:07:46,827 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:07:49,913 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:07:50,912 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:07:54,435 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:10:29,307 ] Using spritesheet cache size of 910
+[ 2023-07-17 17:10:30,135 ] Asset loading complete
+[ 2023-07-17 17:10:31,842 ] All sound assets loaded
+[ 2023-07-17 17:10:34,123 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:10:35,742 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-17 17:10:35,742 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-17 17:10:35,742 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-17 17:10:35,794 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:10:35,800 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:10:36,750 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:10:39,845 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:10:40,845 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:10:44,946 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:10:44,951 ] Disconnected from gameserver
+[ 2023-07-17 17:10:46,183 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:10:46,184 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:10:47,141 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:10:50,295 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:10:51,296 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:10:54,320 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:11:33,354 ] Using spritesheet cache size of 910
+[ 2023-07-17 17:11:33,839 ] Asset loading complete
+[ 2023-07-17 17:11:35,552 ] All sound assets loaded
+[ 2023-07-17 17:11:37,432 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:11:38,554 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-17 17:11:38,554 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-17 17:11:38,554 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-17 17:11:38,606 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:11:38,612 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:11:39,564 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:11:42,681 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:11:43,681 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:11:47,782 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:11:47,787 ] Disconnected from gameserver
+[ 2023-07-17 17:11:49,028 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:11:49,029 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:11:49,983 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:11:53,131 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:11:54,131 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:11:58,232 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:11:58,236 ] Disconnected from gameserver
+[ 2023-07-17 17:11:59,380 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:11:59,380 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:11:59,890 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:12:00,342 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:14:20,781 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 17:14:20,853 ] Disconnected from gameserver
+[ 2023-07-17 17:14:22,770 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:14:23,163 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:14:23,165 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:14:24,108 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:14:27,232 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:14:28,232 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:14:32,332 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:14:32,336 ] Disconnected from gameserver
+[ 2023-07-17 17:14:33,482 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:14:33,483 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:14:34,440 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:14:37,581 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:14:38,582 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:14:42,681 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:14:42,685 ] Disconnected from gameserver
+[ 2023-07-17 17:14:43,823 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:14:43,824 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:14:44,780 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:14:47,882 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 17:14:48,881 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:14:51,437 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:17:08,810 ] Using spritesheet cache size of 910
+[ 2023-07-17 17:17:09,691 ] Asset loading complete
+[ 2023-07-17 17:17:11,562 ] All sound assets loaded
+[ 2023-07-17 17:19:24,925 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:19:25,931 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-17 17:19:25,931 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-17 17:19:25,931 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-17 17:19:25,982 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:19:25,988 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:19:25,998 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:19:26,938 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:19:34,543 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 17:19:34,613 ] Disconnected from gameserver
+[ 2023-07-17 17:19:35,866 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:19:36,486 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:19:36,487 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:19:36,498 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:19:36,643 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 17:19:36,649 ] Disconnected from gameserver
+[ 2023-07-17 17:19:37,454 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:19:38,113 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 17:19:38,438 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 17:19:38,439 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:19:38,449 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 17:19:39,405 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:03:52,693 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 18:03:52,779 ] Disconnected from gameserver
+[ 2023-07-17 18:07:31,505 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:07:31,668 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 18:07:31,670 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:07:31,681 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:07:32,623 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:18:09,893 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 18:18:09,971 ] Disconnected from gameserver
+[ 2023-07-17 18:18:13,043 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:18:13,464 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 18:18:13,493 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:18:14,423 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:18:17,543 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:18:18,543 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:18:22,593 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:18:22,597 ] Disconnected from gameserver
+[ 2023-07-17 18:18:23,815 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 18:18:23,816 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:18:24,749 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:18:27,944 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:18:28,993 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:18:33,093 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:18:33,096 ] Disconnected from gameserver
+[ 2023-07-17 18:18:34,259 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 18:18:34,293 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:18:35,219 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:18:35,815 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:32:00,894 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 18:32:00,961 ] Disconnected from gameserver
+[ 2023-07-17 18:32:06,916 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:32:07,704 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 18:32:07,743 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:32:08,655 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:32:11,843 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:32:12,844 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:32:16,945 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:32:16,951 ] Disconnected from gameserver
+[ 2023-07-17 18:32:18,096 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 18:32:18,098 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:32:19,061 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:32:22,243 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:32:23,244 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:32:27,343 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:32:27,346 ] Disconnected from gameserver
+[ 2023-07-17 18:32:28,492 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 18:32:28,492 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:32:29,455 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 18:32:32,593 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 18:32:33,593 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 18:32:34,104 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 19:08:30,694 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-17 19:08:30,774 ] Disconnected from gameserver
+[ 2023-07-17 22:25:32,645 ] Using spritesheet cache size of 910
+[ 2023-07-17 22:25:33,332 ] Asset loading complete
+[ 2023-07-17 22:25:35,499 ] All sound assets loaded
+[ 2023-07-17 22:26:03,742 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 22:26:06,317 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-17 22:26:06,317 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-17 22:26:06,317 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-17 22:26:06,418 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 22:26:06,435 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 22:26:07,343 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 22:26:10,534 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 22:26:11,535 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 22:26:15,634 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 22:26:15,640 ] Disconnected from gameserver
+[ 2023-07-17 22:26:16,893 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 22:26:16,893 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 22:26:17,842 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-17 22:26:20,984 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 22:26:22,035 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 22:26:26,084 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-17 22:26:26,087 ] Disconnected from gameserver
+[ 2023-07-17 22:26:27,225 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-17 22:26:27,226 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 22:26:27,236 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-17 22:26:28,188 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 17:25:23,829 ] Using spritesheet cache size of 910
+[ 2023-07-18 17:25:24,746 ] Asset loading complete
+[ 2023-07-18 17:25:27,087 ] All sound assets loaded
+[ 2023-07-18 17:25:29,521 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 17:25:30,870 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-18 17:25:30,870 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-18 17:25:30,870 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-18 17:25:30,947 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 17:25:30,954 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 17:25:31,898 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 17:25:35,001 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 17:25:36,000 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 17:25:38,230 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 17:25:38,954 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 17:25:38,955 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 17:25:39,915 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 17:25:40,973 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 20:50:40,184 ] Using spritesheet cache size of 910
+[ 2023-07-18 20:50:40,715 ] Asset loading complete
+[ 2023-07-18 20:50:43,196 ] All sound assets loaded
+[ 2023-07-18 20:50:53,166 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 20:50:54,645 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-18 20:50:54,645 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-18 20:50:54,645 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-18 20:50:54,702 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 20:50:54,702 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 20:50:55,663 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 20:50:58,800 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 20:50:59,800 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 20:51:03,900 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 20:51:03,905 ] Disconnected from gameserver
+[ 2023-07-18 20:51:05,122 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 20:51:05,124 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 20:51:05,136 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 20:51:06,087 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 21:40:06,234 ] Using spritesheet cache size of 910
+[ 2023-07-18 21:40:06,711 ] Asset loading complete
+[ 2023-07-18 21:40:08,443 ] All sound assets loaded
+[ 2023-07-18 21:40:39,450 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 21:40:40,477 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-18 21:40:40,477 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-18 21:40:40,477 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-18 21:40:40,530 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 21:40:40,536 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 21:40:40,547 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 21:40:41,493 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 21:59:43,099 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-18 21:59:43,173 ] Disconnected from gameserver
+[ 2023-07-18 22:19:34,289 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:19:34,955 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 22:19:34,957 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:19:35,914 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:19:39,049 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 22:19:40,050 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:19:44,149 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 22:19:44,153 ] Disconnected from gameserver
+[ 2023-07-18 22:19:45,317 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 22:19:45,319 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:19:46,258 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:19:49,399 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 22:19:50,399 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:19:54,449 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 22:19:54,452 ] Disconnected from gameserver
+[ 2023-07-18 22:19:55,610 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 22:19:55,612 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:19:56,554 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:19:58,677 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:27:10,949 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-18 22:27:11,026 ] Disconnected from gameserver
+[ 2023-07-18 22:33:49,817 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:33:50,669 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 22:33:50,672 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:33:51,635 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:33:54,749 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 22:33:55,749 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:33:59,849 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 22:33:59,852 ] Disconnected from gameserver
+[ 2023-07-18 22:34:01,004 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 22:34:01,049 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:34:01,964 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:34:05,149 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 22:34:06,149 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:34:10,249 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-18 22:34:10,253 ] Disconnected from gameserver
+[ 2023-07-18 22:34:11,394 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 22:34:11,395 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:34:12,354 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:34:13,939 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:36:46,960 ] Using spritesheet cache size of 910
+[ 2023-07-18 22:36:48,004 ] Asset loading complete
+[ 2023-07-18 22:36:49,564 ] All sound assets loaded
+[ 2023-07-18 22:36:51,328 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:36:52,388 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-18 22:36:52,388 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-18 22:36:52,388 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-18 22:36:52,440 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-18 22:36:52,445 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:36:52,456 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-18 22:36:53,399 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-18 22:45:38,707 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-18 22:45:38,779 ] Disconnected from gameserver
+[ 2023-07-19 17:40:23,857 ] Using spritesheet cache size of 910
+[ 2023-07-19 17:40:24,307 ] All sound assets loaded
+[ 2023-07-19 17:40:24,440 ] Asset loading complete
+[ 2023-07-19 17:40:26,705 ] All sound assets loaded
+[ 2023-07-19 17:40:31,547 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 17:40:32,793 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-19 17:40:32,793 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-19 17:40:32,793 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-19 17:40:32,860 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 17:40:32,862 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 17:40:33,826 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 17:40:36,945 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 17:40:37,945 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 17:40:42,045 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 17:40:42,051 ] Disconnected from gameserver
+[ 2023-07-19 17:40:43,252 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 17:40:43,253 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 17:40:44,216 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 17:40:47,345 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 17:40:48,395 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 17:40:52,445 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 17:40:52,448 ] Disconnected from gameserver
+[ 2023-07-19 17:40:53,581 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 17:40:53,582 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 17:40:54,542 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 17:40:57,644 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 17:40:58,645 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 17:41:02,695 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 17:41:02,698 ] Disconnected from gameserver
+[ 2023-07-19 17:41:03,837 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 17:41:03,838 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 17:41:04,793 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 17:41:06,878 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 20:46:43,497 ] Using spritesheet cache size of 910
+[ 2023-07-19 20:46:43,997 ] Asset loading complete
+[ 2023-07-19 20:46:46,337 ] All sound assets loaded
+[ 2023-07-19 20:46:49,041 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 20:46:50,175 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-19 20:46:50,175 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-19 20:46:50,175 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-19 20:46:50,226 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 20:46:50,229 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 20:46:51,183 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 20:46:52,254 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 21:07:08,795 ] Using spritesheet cache size of 910
+[ 2023-07-19 21:07:09,789 ] Asset loading complete
+[ 2023-07-19 21:07:11,423 ] All sound assets loaded
+[ 2023-07-19 21:07:16,057 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 21:07:16,944 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-19 21:07:16,944 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-19 21:07:16,944 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-19 21:07:17,001 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-19 21:07:17,003 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 21:07:17,018 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 21:07:17,964 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 21:11:22,571 ] Using spritesheet cache size of 910
+[ 2023-07-19 21:11:23,025 ] Asset loading complete
+[ 2023-07-19 21:11:24,959 ] All sound assets loaded
+[ 2023-07-19 21:11:26,645 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 21:11:27,691 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-19 21:11:27,691 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-19 21:11:27,692 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-19 21:11:27,748 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 21:11:27,754 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 21:11:27,765 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 21:11:28,704 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 21:25:44,955 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-19 21:25:45,025 ] Disconnected from gameserver
+[ 2023-07-19 21:53:32,293 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 21:53:35,420 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-19 21:53:35,422 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 21:53:35,434 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 21:53:36,388 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:05:28,655 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-19 22:05:28,725 ] Disconnected from gameserver
+[ 2023-07-19 22:05:28,760 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:05:29,162 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-19 22:05:29,164 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:05:29,174 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:05:30,120 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:12:50,256 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-19 22:12:50,349 ] Disconnected from gameserver
+[ 2023-07-19 22:12:50,994 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-19 22:12:51,066 ] Disconnected from gameserver
+[ 2023-07-19 22:15:06,022 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:15:06,708 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 22:15:06,745 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:07,669 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:15:10,614 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:15:10,794 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 22:15:11,020 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-19 22:15:11,055 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:11,795 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:11,981 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:15:15,106 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 22:15:15,844 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 22:15:15,849 ] Disconnected from gameserver
+[ 2023-07-19 22:15:16,155 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:16,993 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 22:15:16,994 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:17,949 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:15:20,206 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 22:15:20,211 ] Disconnected from gameserver
+[ 2023-07-19 22:15:21,044 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 22:15:21,353 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-19 22:15:21,354 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:22,044 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:22,307 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:15:25,405 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 22:15:26,144 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 22:15:26,147 ] Disconnected from gameserver
+[ 2023-07-19 22:15:26,406 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:27,294 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-19 22:15:27,295 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:28,248 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:15:30,506 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-19 22:15:30,509 ] Disconnected from gameserver
+[ 2023-07-19 22:15:31,362 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:31,669 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-19 22:15:31,670 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:31,681 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:15:32,623 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:16:45,656 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-19 22:16:45,728 ] Disconnected from gameserver
+[ 2023-07-19 22:16:45,766 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:17:03,607 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-19 22:17:03,609 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:17:03,622 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:17:04,558 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:18:54,806 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-19 22:18:54,878 ] Disconnected from gameserver
+[ 2023-07-19 22:18:54,925 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-19 22:19:02,885 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-19 22:19:02,886 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:19:02,898 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-19 22:19:03,840 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-21 19:44:34,457 ] Using spritesheet cache size of 910
+[ 2023-07-21 19:44:35,268 ] Asset loading complete
+[ 2023-07-21 19:44:37,810 ] All sound assets loaded
+[ 2023-07-21 19:49:39,027 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-21 19:49:40,463 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-21 19:49:40,463 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-21 19:49:40,463 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-21 19:49:40,532 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-21 19:49:40,544 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-21 19:49:41,484 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-21 19:49:44,619 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-21 19:49:45,689 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-21 19:49:49,819 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-21 19:49:49,825 ] Disconnected from gameserver
+[ 2023-07-21 19:49:51,042 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-21 19:49:51,044 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-21 19:49:52,000 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-21 19:49:55,169 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-21 19:49:56,169 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-21 19:50:00,269 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-21 19:50:00,272 ] Disconnected from gameserver
+[ 2023-07-21 19:50:01,421 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-21 19:50:01,422 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-21 19:50:02,375 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-21 19:50:04,471 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:08,667 ] Using spritesheet cache size of 910
+[ 2023-07-22 15:40:09,269 ] Asset loading complete
+[ 2023-07-22 15:40:11,538 ] All sound assets loaded
+[ 2023-07-22 15:40:14,033 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 15:40:15,193 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-22 15:40:15,193 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-22 15:40:15,193 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-22 15:40:15,256 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 15:40:15,262 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:16,217 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 15:40:19,323 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 15:40:20,323 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:24,423 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 15:40:24,429 ] Disconnected from gameserver
+[ 2023-07-22 15:40:25,634 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 15:40:25,636 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:26,593 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 15:40:29,724 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 15:40:30,774 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:34,873 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 15:40:34,876 ] Disconnected from gameserver
+[ 2023-07-22 15:40:36,028 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 15:40:36,030 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:36,984 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 15:40:40,124 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 15:40:41,124 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:45,273 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 15:40:45,276 ] Disconnected from gameserver
+[ 2023-07-22 15:40:46,415 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 15:40:46,416 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:47,374 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 15:40:50,523 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 15:40:51,524 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:55,574 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 15:40:55,578 ] Disconnected from gameserver
+[ 2023-07-22 15:40:57,806 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 15:40:57,807 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:57,817 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 15:40:58,766 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 17:06:04,669 ] Using spritesheet cache size of 910
+[ 2023-07-22 17:06:05,838 ] Asset loading complete
+[ 2023-07-22 17:06:07,656 ] All sound assets loaded
+[ 2023-07-22 17:06:08,905 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 17:06:09,696 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-22 17:06:09,696 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-22 17:06:09,696 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-22 17:06:09,745 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 17:06:09,750 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 17:06:09,761 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 17:06:10,705 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 17:16:36,401 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-22 17:16:36,474 ] Disconnected from gameserver
+[ 2023-07-22 17:16:49,000 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 17:16:49,454 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 17:16:49,498 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 17:16:50,421 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 17:16:53,598 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 17:16:54,599 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 17:16:58,649 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 17:16:58,653 ] Disconnected from gameserver
+[ 2023-07-22 17:16:59,793 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 17:16:59,795 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 17:17:00,751 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 17:17:03,849 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 17:17:04,849 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 17:17:04,859 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 21:57:15,248 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-22 21:57:15,327 ] Disconnected from gameserver
+[ 2023-07-22 21:57:16,569 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 21:57:17,991 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 21:57:17,993 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 21:57:18,939 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 21:57:22,099 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 21:57:23,149 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 21:57:27,199 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 21:57:27,203 ] Disconnected from gameserver
+[ 2023-07-22 21:57:28,353 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 21:57:28,354 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 21:57:29,296 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 21:57:32,399 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 21:57:33,399 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 21:57:37,549 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-22 21:57:37,552 ] Disconnected from gameserver
+[ 2023-07-22 21:57:38,700 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-22 21:57:38,702 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 21:57:39,656 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 21:57:40,736 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 22:21:34,399 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-22 22:21:34,465 ] Disconnected from gameserver
+[ 2023-07-22 22:21:34,505 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 22:21:38,753 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 22:21:39,663 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-22 22:21:39,699 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 22:21:39,709 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 22:21:40,626 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 22:21:46,549 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-22 22:21:46,616 ] Disconnected from gameserver
+[ 2023-07-22 22:21:46,654 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 22:31:24,275 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 22:31:24,805 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-22 22:31:24,849 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 22:31:24,859 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 22:31:25,764 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 22:31:32,349 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-22 22:31:32,413 ] Disconnected from gameserver
+[ 2023-07-22 22:31:32,446 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 23:10:32,756 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 23:10:33,351 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-22 23:10:33,353 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 23:10:33,364 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-22 23:10:34,312 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-22 23:20:38,649 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-22 23:20:38,717 ] Disconnected from gameserver
+[ 2023-07-22 23:20:38,760 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:00:21,051 ] Using spritesheet cache size of 910
+[ 2023-07-23 09:00:21,701 ] Asset loading complete
+[ 2023-07-23 09:00:24,449 ] All sound assets loaded
+[ 2023-07-23 09:00:33,407 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:00:35,185 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 09:00:35,185 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 09:00:35,185 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 09:00:35,263 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:00:35,268 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:00:36,218 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:00:39,405 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:00:40,406 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:00:44,505 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:00:44,510 ] Disconnected from gameserver
+[ 2023-07-23 09:00:45,729 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:00:45,730 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:00:46,686 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:00:49,806 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:00:50,806 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:00:54,905 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:00:54,909 ] Disconnected from gameserver
+[ 2023-07-23 09:00:56,059 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:00:56,106 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:00:57,015 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:00:58,407 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:00:58,825 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:00:58,826 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:00:59,783 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:01:02,956 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:01:03,956 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:01:08,056 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:01:08,060 ] Disconnected from gameserver
+[ 2023-07-23 09:01:09,210 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:01:09,213 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:01:10,155 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:01:13,305 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:01:14,306 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:01:18,356 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:01:18,362 ] Disconnected from gameserver
+[ 2023-07-23 09:01:20,612 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:01:20,656 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:01:21,577 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:01:22,177 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:03:06,606 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:03:06,671 ] Disconnected from gameserver
+[ 2023-07-23 09:03:25,479 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:03:25,895 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:03:25,897 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:03:26,859 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:03:29,956 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:03:30,956 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:03:35,056 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:03:35,060 ] Disconnected from gameserver
+[ 2023-07-23 09:03:36,206 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:03:36,207 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:03:37,172 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:03:40,306 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:03:41,356 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:03:45,456 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:03:45,459 ] Disconnected from gameserver
+[ 2023-07-23 09:03:46,612 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:03:46,613 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:03:47,565 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:03:50,706 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:03:51,706 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:03:53,726 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:07:35,857 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:07:35,932 ] Disconnected from gameserver
+[ 2023-07-23 09:07:59,112 ] Using spritesheet cache size of 910
+[ 2023-07-23 09:08:00,056 ] Asset loading complete
+[ 2023-07-23 09:08:01,607 ] All sound assets loaded
+[ 2023-07-23 09:08:04,230 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:08:06,882 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 09:08:06,882 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 09:08:06,882 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 09:08:06,940 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:08:06,946 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:08:07,904 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:08:11,060 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:08:12,061 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:08:16,111 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:08:16,115 ] Disconnected from gameserver
+[ 2023-07-23 09:08:17,338 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:08:17,339 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:08:18,296 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:08:21,411 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:08:22,410 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:08:26,461 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:11:22,996 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:11:23,069 ] Disconnected from gameserver
+[ 2023-07-23 09:11:26,188 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:11:26,557 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:11:26,560 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:11:27,507 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:11:30,646 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:11:31,696 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:11:35,796 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:11:35,800 ] Disconnected from gameserver
+[ 2023-07-23 09:11:36,944 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:11:36,946 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:11:37,898 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:11:41,046 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:11:42,046 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:11:46,146 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:11:46,148 ] Disconnected from gameserver
+[ 2023-07-23 09:11:47,300 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:11:47,346 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:11:48,257 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:11:49,879 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:12:00,642 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231539 found"
+[ 2023-07-23 09:13:18,946 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:13:19,017 ] Disconnected from gameserver
+[ 2023-07-23 09:13:21,260 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:13:21,713 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:13:21,714 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:13:22,678 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:13:25,796 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:13:26,795 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:13:30,896 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:13:30,900 ] Disconnected from gameserver
+[ 2023-07-23 09:13:32,055 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:13:32,055 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:13:33,007 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:13:36,196 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:13:37,246 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:13:41,346 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:13:41,349 ] Disconnected from gameserver
+[ 2023-07-23 09:13:42,491 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:13:42,492 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:13:43,443 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:13:46,545 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:13:47,546 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:13:49,578 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:18:46,846 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:18:46,916 ] Disconnected from gameserver
+[ 2023-07-23 09:18:51,007 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:18:51,439 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:18:51,441 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:18:52,396 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:18:55,545 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:18:56,545 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:19:00,646 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:19:00,650 ] Disconnected from gameserver
+[ 2023-07-23 09:19:01,815 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:19:01,817 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:19:02,775 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:19:05,896 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:19:06,896 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:19:10,996 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:19:10,999 ] Disconnected from gameserver
+[ 2023-07-23 09:19:12,142 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:19:12,144 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:19:13,101 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:19:15,691 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:22:07,496 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:22:07,566 ] Disconnected from gameserver
+[ 2023-07-23 09:23:14,874 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:23:15,369 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:23:15,370 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:23:16,335 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:23:19,445 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:23:20,445 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:23:24,545 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:23:24,550 ] Disconnected from gameserver
+[ 2023-07-23 09:23:25,693 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:23:25,695 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:23:26,647 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:23:29,796 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:23:30,845 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:23:34,945 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:23:34,948 ] Disconnected from gameserver
+[ 2023-07-23 09:23:36,096 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:23:36,097 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:23:37,054 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:23:40,146 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:23:41,146 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:23:41,147 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:26:03,095 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:26:03,164 ] Disconnected from gameserver
+[ 2023-07-23 09:26:06,199 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:26:06,723 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:26:06,725 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:26:07,678 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:26:10,846 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:26:11,895 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:26:15,996 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:26:15,999 ] Disconnected from gameserver
+[ 2023-07-23 09:26:17,153 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:26:17,155 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:26:18,116 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:26:21,245 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:26:22,246 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:26:26,345 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:26:26,348 ] Disconnected from gameserver
+[ 2023-07-23 09:26:27,491 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:26:27,493 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:26:28,443 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:26:31,546 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:26:32,595 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:26:33,605 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:28:54,895 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:28:54,968 ] Disconnected from gameserver
+[ 2023-07-23 09:29:12,554 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:29:12,842 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:29:12,845 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:29:13,803 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:29:16,996 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:29:18,046 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:29:22,096 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:29:22,099 ] Disconnected from gameserver
+[ 2023-07-23 09:29:23,236 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:29:23,237 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:29:24,196 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:29:26,286 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:32:23,646 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:32:23,728 ] Disconnected from gameserver
+[ 2023-07-23 09:32:25,952 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:32:26,430 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:32:26,432 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:32:27,380 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:32:30,496 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:32:31,496 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:32:35,595 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:32:35,599 ] Disconnected from gameserver
+[ 2023-07-23 09:32:36,740 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:32:36,741 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:32:37,693 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:32:40,846 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:32:41,845 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:32:45,945 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "Connection refused" )
+[ 2023-07-23 09:32:45,948 ] Disconnected from gameserver
+[ 2023-07-23 09:32:47,104 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:32:47,146 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:32:48,053 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:32:49,696 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:51:12,202 ] Using spritesheet cache size of 910
+[ 2023-07-23 09:51:13,192 ] Asset loading complete
+[ 2023-07-23 09:51:14,783 ] All sound assets loaded
+[ 2023-07-23 09:51:18,232 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:51:18,934 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 09:51:18,934 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 09:51:18,934 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 09:51:18,988 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-23 09:51:18,993 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:51:19,004 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:51:19,946 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:51:42,544 ] Error while processing network packet field has more than one zero id appearance
+[ 2023-07-23 09:51:42,544 ] "bXF+x30HAXF+xn0HZWYD9wRdCwD/ZgP3BAD/ZgP3BAD/ZET3BAD/YUQyEvkEAP9hRDYSAP9iRAD/YUQA/2ZEAP9kRAD/ZkQA/2JEAP+YAQD/mAEA/5gBAP+YAQD/mAEA/5gBOQsApwkAAAD/mAHbCQAAAP+wAQD/mAEA/5gB9gQG/4IEAP+ABAD/gAQA/4AEAP+ABAD/gAQA/4AEAP+ABAD/hwQA/4cEAP+HBAD/iARo/2xxfsZ9BwFkdX6gfQejEQD/ZwAwAa9VAP9nAAD/ZwA+BwD/ZwAA/2cAAP9nAEsHAP9nAAD/ZwCXAQD/oxGvVQD/oxEA/6MRAP+kEQD/oxEA/6MRYg4A/2cAOQEA/2cAagIA/2cANQFCBwD/ZwAA/2cASwcA/2cAAP9nAAD/ZwA2AQD/ZwA6AQD/oxEA/6MRAP+mEQD/oxEA/6YRSRgA/6MRShgA/6cR3AcA/2cAMAEA/2cAAP9nAAD/ZwAA/2cAAP9nAAD/ZwCXAQD/oxEA/6MRAP9nADgBAP9nADMBAP+jEXQIAP+jEXQIAP+jEXQIAP9nADABdAgA/2cAAP9nADcBdAgA/2cAagIA/2cANQEA/2cAAP9nADYBAP9nADMBAP9nADMBAP9nADQBPwc+BwD/ZwAA/6MRAP+jEUoYAP+wEQD/ZwA5AQD/ZwBqAgD/ZwA7AXIIAP+qEQD/ZwAwAQD/ZwClNwD/ZwA3AQD/ZwBqAgD/ZwBqAgD/ZwA1AQD/ZwAA/80DthEA/8wDvRG7BwD/qxEA/6wRuwcA/6MRAP+kEXIIAP+jESIfAP9nADABAP9nAAD/ZwCXAQD/rREA/6YRAP9nADkBAP9nAGoCAP/SA7gRSRgA/8wDuREA/8sDthFJGAD/zAO9EQD/oxFJGAD/oxFyCAD/oxFiDgD/ZwAwAQD/ZwA2PwAAAP9nAJcBAP+jEQD/oxFJGAD/rxFJGAD/MBE4Aa9VAP/MA7MRAP/QA7sHAP/QAwD/4AO1EbsHAP+xEa9VAP+jEXIIAP+jEQD/ZwAwAQD/ZwAA/2cAlwEA/7ARAP+jEa9VAP84ETgBAP82ETQBAP/SA7wRSRgA/9ADuBGvVQD/4QOvVQD/0gO1EQD/oxFKGAD/rhFyCAD/qhFiAAgAABBkAIAGclhPAAMAAADXkAQAAAAAAAD/AAEA/2cAMAEA/2cAfEoAAAD/ZwCXAQD/sBEA/6URShgA/zcRMAEA/zcR3REA/6MRAP/QA7wRuwcA/8wDuBEA/88DuRG7BwD/4QO9EUkYAP+jEXIIAP+jEQD/ZwAwAQD/ZwAA/2cAlwEA/6MRPgcA/6kRAP8yETkBSRgA/y0RNQEA/6MRAP+jEa9VAP/MA7MRShgA/+EDAP/NA7URAP+jEXIIAP+sEa9VAP9nADABAP9nACthAAAA/2cAlwEA/6MRAP+nEQD/oxFiDgD/MxE5AQD/OBFLGToBAP+jEbsHAP/SA7MRAP/MA7sHAP/OA7URIR8A/7ERcggA/7ARr1UA/2cAMAEA/2cAAP9nAJcBAP+jEQD/oxFhDgD/sBEA/6MRJBJHGAD/KhFLGZcBAP+jEUoYAP/MA7wRAP/hA7QRAP/NA74RShgA/6MRcggA/6MRAP9nADABGoUA/2cAGIUA/2cAlwEYhQD/oxEA/6MRAP+jEQD/rBEbEgD/ORFLGZcBAP+yEbsHAP+uEUkYAP+jEWEOAP+tEa9VAP+jEXIIcggA/6MRSRgA/2cAMAEZhQD/ZwAYhRiFAP9nAJcBAP+tEQD/oxEA/6MRJBIA/6MRIBIA/zMRSxmXAQD/oxFKGAD/rhFJGAD/qBFhDgD/oxGvVQD/oxFyCAD/oxEA/2cAMAEA/2cAAP9nAJcBAP+jEQD/oxEkEgD/oxEgEgD/9hEA/zURTxmXAQD/qhG7BwD/oxGvVQD/qhEA/6MRShgA/6wRcggA/6MRRg4A/2cAMAEA/2cAAP9nAJcBAP+jEQD/oxEbEgD/9REA//kRAP8uEZcBAP+jEQD/rhF0CAD/oxF0CAD/oxF0CAD/oxF4CAD/shEA/2cAMAEA/2cAAP9nAJcBAP+qEQD/pBEbEgD/9REA//URAP82ETYBAP80EToBHg4A/6MRAP+jEWEOAP8qETgBAP8uEToBAP+rEQD/ZwAwAQD/ZwAA/2cAlwEA/6MRPwcA/6sRGxIA//cRAP/6ESH/MB8N/ykfAP8wHwr/Lx8A/yofAP8kHycfAP81Hwv/Lx8A/yUfNR8N/zIfJv8sHwD/MB8L/ysfAP8oHzQfAP8kHycfAP8xHwv/Lx8A/yUfNR8N/zIf////////////////OP+pAAAeAFJlc3RpbmcgQXJlYSAobm8gYWN0aXZlIGJvbnVzKaKAAAAAa3V+oH0HAWMACAAAEAEBg3V+oH0HAwsA"
+[ 2023-07-23 09:51:56,746 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:51:56,821 ] Disconnected from gameserver
+[ 2023-07-23 09:51:56,856 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:52:02,561 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:52:03,012 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-23 09:52:03,014 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:52:03,025 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:52:03,975 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:52:50,896 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:52:50,958 ] Disconnected from gameserver
+[ 2023-07-23 09:52:50,992 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:52:58,143 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:52:59,346 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:52:59,347 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:52:59,359 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:53:00,303 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:53:02,545 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:53:02,610 ] Disconnected from gameserver
+[ 2023-07-23 09:53:02,647 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:53:05,703 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:53:06,478 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-23 09:53:06,479 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:53:06,491 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:53:07,446 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:54:58,995 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:54:59,063 ] Disconnected from gameserver
+[ 2023-07-23 09:54:59,092 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:55:02,083 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:55:02,696 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 09:55:02,698 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:55:02,708 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:55:03,662 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:55:06,146 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 09:55:06,211 ] Disconnected from gameserver
+[ 2023-07-23 09:55:06,250 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:55:11,881 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 09:55:12,640 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Assassint" )
+[ 2023-07-23 09:55:12,642 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:55:12,654 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 09:55:13,602 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:03:52,496 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 10:03:52,562 ] Disconnected from gameserver
+[ 2023-07-23 10:14:58,932 ] Using spritesheet cache size of 910
+[ 2023-07-23 10:15:00,018 ] Asset loading complete
+[ 2023-07-23 10:15:01,191 ] All sound assets loaded
+[ 2023-07-23 10:15:03,697 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:15:06,669 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:15:07,676 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 10:15:07,676 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 10:15:07,676 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 10:15:07,726 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 10:15:07,731 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 10:15:07,741 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 10:15:08,693 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:21:51,920 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 10:21:51,987 ] Disconnected from gameserver
+[ 2023-07-23 10:47:05,807 ] Using spritesheet cache size of 910
+[ 2023-07-23 10:47:06,300 ] Asset loading complete
+[ 2023-07-23 10:47:08,491 ] All sound assets loaded
+[ 2023-07-23 10:47:10,587 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:47:11,728 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 10:47:11,728 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 10:47:11,728 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 10:47:11,781 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 10:47:11,787 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 10:47:11,797 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 10:47:12,741 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:48:35,824 ] Json parse error in file "F:\\Rl_13_custom_download\\Client_1311\\conf\\clientoptions.json" :  "object is missing after a comma" at offset 30565
+[ 2023-07-23 10:48:36,493 ] Using spritesheet cache size of 910
+[ 2023-07-23 10:48:36,979 ] Asset loading complete
+[ 2023-07-23 10:48:38,751 ] All sound assets loaded
+[ 2023-07-23 10:48:52,499 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:48:53,566 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 10:48:53,566 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 10:48:53,566 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 10:48:53,615 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 10:48:53,617 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 10:48:53,630 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"
+[ 2023-07-23 10:48:54,589 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:49:00,739 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Hellgrave"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 10:49:00,802 ] Disconnected from gameserver
+[ 2023-07-23 10:49:00,996 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 10:49:04,290 ] Using spritesheet cache size of 910
+[ 2023-07-23 10:49:05,264 ] Asset loading complete
+[ 2023-07-23 10:49:06,764 ] All sound assets loaded
+[ 2023-07-23 12:34:04,736 ] Using spritesheet cache size of 910
+[ 2023-07-23 12:34:05,705 ] Asset loading complete
+[ 2023-07-23 12:34:10,528 ] All sound assets loaded
+[ 2023-07-23 12:34:24,764 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:34:28,500 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 12:34:28,500 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 12:34:28,500 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 12:34:28,628 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 12:34:28,642 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:34:29,560 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:34:32,724 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 12:34:33,723 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:34:37,819 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 12:34:37,831 ] Disconnected from gameserver
+[ 2023-07-23 12:34:39,268 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 12:34:39,269 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:34:40,216 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:34:43,380 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 12:34:44,429 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:34:44,440 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:34:44,469 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 12:34:44,473 ] Disconnected from gameserver
+[ 2023-07-23 12:34:53,353 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:35:02,887 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-07-23 12:35:02,893 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:35:02,905 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:35:03,890 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:39:31,674 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 12:39:31,761 ] Disconnected from gameserver
+[ 2023-07-23 12:39:31,839 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:39:33,196 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 12:39:33,203 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:39:33,215 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:39:33,273 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 12:39:33,280 ] Disconnected from gameserver
+[ 2023-07-23 12:39:34,139 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:39:34,954 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:39:39,885 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:39:42,932 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 12:39:42,938 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:39:42,949 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:39:42,970 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 12:39:42,974 ] Disconnected from gameserver
+[ 2023-07-23 12:39:43,896 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:39:43,930 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:40:26,924 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:40:29,672 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 12:40:29,678 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:40:29,689 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:40:31,005 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:42:17,735 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 12:42:17,824 ] Disconnected from gameserver
+[ 2023-07-23 12:42:17,888 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:43:18,376 ] Using spritesheet cache size of 910
+[ 2023-07-23 12:43:19,536 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 12:43:19,798 ] Asset loading complete
+[ 2023-07-23 12:43:22,525 ] All sound assets loaded
+[ 2023-07-23 12:46:33,564 ] Using spritesheet cache size of 910
+[ 2023-07-23 12:46:34,406 ] Asset loading complete
+[ 2023-07-23 12:46:35,142 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 12:46:38,068 ] All sound assets loaded
+[ 2023-07-23 12:46:56,354 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:46:57,968 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 12:46:57,969 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 12:46:57,969 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 12:46:58,060 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 12:46:58,074 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:46:58,085 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 12:46:59,018 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 12:56:50,427 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 12:56:50,541 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 12:56:50,564 ] Disconnected from gameserver
+[ 2023-07-23 12:56:50,894 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 13:07:53,874 ] Using spritesheet cache size of 910
+[ 2023-07-23 13:07:54,819 ] Asset loading complete
+[ 2023-07-23 13:07:55,804 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 13:07:57,933 ] All sound assets loaded
+[ 2023-07-23 13:08:05,389 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 13:08:07,045 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 13:08:07,045 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 13:08:07,045 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 13:08:07,138 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 13:08:07,154 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 13:08:07,166 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 13:08:08,088 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 13:10:36,170 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 13:10:36,281 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 13:10:36,306 ] Disconnected from gameserver
+[ 2023-07-23 13:11:32,710 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 13:11:34,184 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2023-07-23 13:11:34,192 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 13:11:34,204 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 13:11:35,126 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 13:13:09,186 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 13:13:09,283 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 13:13:09,304 ] Disconnected from gameserver
+[ 2023-07-23 13:13:09,396 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:17:56,198 ] Using spritesheet cache size of 910
+[ 2023-07-23 16:17:57,957 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 16:17:58,364 ] Asset loading complete
+[ 2023-07-23 16:18:01,195 ] All sound assets loaded
+[ 2023-07-23 16:18:10,186 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:18:13,136 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 16:18:13,137 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 16:18:13,137 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 16:18:13,239 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 16:18:13,252 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 16:18:13,264 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 16:18:14,199 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:18:23,891 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 16:18:24,010 ] Disconnected from gameserver
+[ 2023-07-23 16:18:24,341 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:21:43,642 ] Using spritesheet cache size of 910
+[ 2023-07-23 16:21:45,297 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 16:21:45,720 ] Asset loading complete
+[ 2023-07-23 16:21:50,142 ] All sound assets loaded
+[ 2023-07-23 16:21:55,174 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:22:05,310 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 16:22:05,310 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 16:22:05,310 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 16:22:05,417 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 16:22:05,429 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 16:22:05,431 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 16:22:06,380 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:23:06,058 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 16:23:06,176 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 16:23:06,200 ] Disconnected from gameserver
+[ 2023-07-23 16:43:36,429 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:43:37,712 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 16:43:37,719 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 16:43:37,730 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 16:43:38,659 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:43:47,085 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231431 found"
+[ 2023-07-23 16:47:26,359 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 16:47:26,486 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 16:47:26,513 ] Disconnected from gameserver
+[ 2023-07-23 16:58:32,299 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 16:58:33,195 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 16:58:33,202 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 16:58:33,213 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 16:58:34,148 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:04:36,158 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 17:04:36,280 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 17:04:36,308 ] Disconnected from gameserver
+[ 2023-07-23 17:07:15,939 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:07:20,219 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 17:07:20,227 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:07:21,150 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:07:24,330 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 17:07:25,378 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:07:29,525 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 17:07:29,546 ] Disconnected from gameserver
+[ 2023-07-23 17:07:30,902 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 17:07:30,909 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:07:31,823 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:07:35,020 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 17:07:36,020 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:07:40,133 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 17:07:40,142 ] Disconnected from gameserver
+[ 2023-07-23 17:07:41,469 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 17:07:41,475 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:07:42,396 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:07:44,028 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:07:55,036 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220452 found"
+[ 2023-07-23 17:07:55,036 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231415 found"
+[ 2023-07-23 17:07:55,036 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231530 found"
+[ 2023-07-23 17:14:58,435 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 17:14:58,590 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 17:14:58,624 ] Disconnected from gameserver
+[ 2023-07-23 17:41:05,423 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:41:06,718 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 17:41:06,728 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:41:06,744 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:41:07,603 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:48:39,394 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:48:40,975 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 17:48:41,117 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 17:48:41,145 ] Disconnected from gameserver
+[ 2023-07-23 17:48:41,415 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-07-23 17:48:41,423 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:48:41,451 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:48:42,341 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:48:55,661 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:48:57,376 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 17:48:57,506 ] Disconnected from gameserver
+[ 2023-07-23 17:48:57,753 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-07-23 17:48:57,760 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:48:57,773 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:48:58,675 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:53:47,020 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 17:53:47,157 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 17:53:47,187 ] Disconnected from gameserver
+[ 2023-07-23 17:54:37,122 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:54:38,297 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-07-23 17:54:38,304 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:54:38,315 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:54:39,253 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:54:42,249 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220484 found"
+[ 2023-07-23 17:54:42,250 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220487 found"
+[ 2023-07-23 17:57:04,549 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:57:13,390 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:57:15,006 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:57:16,954 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:57:18,069 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 17:57:18,163 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 17:57:18,189 ] Disconnected from gameserver
+[ 2023-07-23 17:57:18,285 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:57:19,808 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 17:57:19,816 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:57:19,827 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 17:57:20,767 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 17:57:33,722 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 17:57:33,840 ] Disconnected from gameserver
+[ 2023-07-23 17:57:33,946 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 18:07:45,822 ] Using spritesheet cache size of 910
+[ 2023-07-23 18:07:47,005 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 18:07:47,252 ] Asset loading complete
+[ 2023-07-23 18:07:49,885 ] All sound assets loaded
+[ 2023-07-23 18:07:54,218 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 18:07:57,103 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 18:07:57,103 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 18:07:57,103 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 18:07:57,197 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 18:07:57,209 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 18:07:57,225 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 18:07:58,132 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 18:08:09,922 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 18:08:12,051 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 18:08:12,166 ] Disconnected from gameserver
+[ 2023-07-23 18:08:12,574 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-23 18:08:12,581 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 18:08:12,596 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 18:08:13,517 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 18:09:12,440 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 18:09:12,555 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 18:09:12,580 ] Disconnected from gameserver
+[ 2023-07-23 18:09:49,210 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 18:09:50,288 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-23 18:09:50,296 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 18:09:51,241 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 18:09:51,825 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 18:10:03,098 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220488 found"
+[ 2023-07-23 18:10:03,098 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220490 found"
+[ 2023-07-23 18:10:03,098 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231565 found"
+[ 2023-07-23 18:10:03,098 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220485 found"
+[ 2023-07-23 18:10:03,099 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220489 found"
+[ 2023-07-23 18:13:30,402 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 18:13:30,507 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 18:13:30,531 ] Disconnected from gameserver
+[ 2023-07-23 18:13:30,630 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 20:30:35,656 ] Using spritesheet cache size of 910
+[ 2023-07-23 20:30:37,989 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 20:30:38,611 ] Asset loading complete
+[ 2023-07-23 20:30:43,069 ] All sound assets loaded
+[ 2023-07-23 20:30:50,139 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 20:30:51,611 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 20:30:51,612 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 20:30:51,612 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 20:30:51,767 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 20:30:51,781 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 20:30:51,792 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 20:30:52,685 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 20:34:57,451 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 20:42:50,431 ] QTextCursor::setPosition: Position '-1' out of range
+[ 2023-07-23 20:42:50,431 ] QTextCursor::setPosition: Position '-1' out of range
+[ 2023-07-23 20:58:26,996 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 21:00:46,682 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 21:00:46,848 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 21:00:46,908 ] Disconnected from gameserver
+[ 2023-07-23 21:00:47,382 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:01:38,451 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:01:39,394 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 21:01:39,404 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:01:39,418 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:01:40,283 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:03:34,137 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 21:03:34,281 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 21:03:34,331 ] Disconnected from gameserver
+[ 2023-07-23 21:03:34,513 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:03:51,497 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 21:03:51,507 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:03:51,521 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:03:52,372 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:07:57,841 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:08:00,538 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 21:08:00,755 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 21:08:00,818 ] Disconnected from gameserver
+[ 2023-07-23 21:08:01,151 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-07-23 21:08:01,159 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:08:01,179 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:08:02,085 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:08:06,234 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 21:08:06,441 ] Disconnected from gameserver
+[ 2023-07-23 21:08:06,530 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:08:44,165 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:08:46,716 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-07-23 21:08:46,728 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:08:46,742 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:08:47,610 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:10:22,586 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 21:10:22,774 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 21:10:22,824 ] Disconnected from gameserver
+[ 2023-07-23 21:10:22,942 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:10:36,730 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-07-23 21:10:36,739 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:10:36,743 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:10:37,637 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:11:01,400 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:11:04,540 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 21:11:04,659 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 21:11:04,685 ] Disconnected from gameserver
+[ 2023-07-23 21:11:04,992 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-23 21:11:05,006 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:11:05,018 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:11:05,896 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:11:13,288 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 21:11:13,476 ] Disconnected from gameserver
+[ 2023-07-23 21:11:13,631 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:11:50,238 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:11:52,726 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-23 21:11:52,736 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:11:52,749 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:11:53,617 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:12:51,579 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 21:12:51,796 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 21:12:51,833 ] Disconnected from gameserver
+[ 2023-07-23 21:12:51,965 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 21:13:00,877 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-23 21:13:00,892 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:13:00,910 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 21:13:01,752 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 22:56:17,908 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 22:56:51,358 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 22:56:51,551 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 22:56:51,602 ] Disconnected from gameserver
+[ 2023-07-23 22:56:51,845 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 22:57:02,436 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 22:57:02,450 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 22:57:02,463 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 22:57:03,297 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:03:58,677 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 23:03:58,965 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 23:03:59,042 ] Disconnected from gameserver
+[ 2023-07-23 23:04:01,088 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:06:39,322 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:06:40,203 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 23:06:40,214 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:06:40,227 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:06:41,067 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:07:01,532 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:07:03,669 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 23:07:03,837 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 23:07:03,877 ] Disconnected from gameserver
+[ 2023-07-23 23:07:04,340 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-23 23:07:04,355 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:07:04,373 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:07:05,194 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:11:53,791 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 23:11:53,961 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 23:11:54,003 ] Disconnected from gameserver
+[ 2023-07-23 23:13:02,010 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:13:02,860 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-23 23:13:02,871 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:13:03,739 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:13:06,953 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 23:13:08,004 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:13:09,036 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:13:20,473 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231419 found"
+[ 2023-07-23 23:13:20,473 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231477 found"
+[ 2023-07-23 23:13:20,474 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231418 found"
+[ 2023-07-23 23:14:04,716 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-23 23:14:04,879 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 23:14:04,928 ] Disconnected from gameserver
+[ 2023-07-23 23:14:05,098 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:34:53,697 ] Using spritesheet cache size of 910
+[ 2023-07-23 23:34:54,863 ] All sound assets loaded
+[ 2023-07-23 23:34:54,863 ] All sound assets loaded
+[ 2023-07-23 23:34:55,845 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-23 23:34:56,347 ] Asset loading complete
+[ 2023-07-23 23:35:00,969 ] All sound assets loaded
+[ 2023-07-23 23:35:02,575 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:35:03,592 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-23 23:35:03,592 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-23 23:35:03,592 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-23 23:35:03,737 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 23:35:03,752 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:35:04,658 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:35:07,840 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 23:35:08,886 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:35:13,002 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 23:35:13,015 ] Disconnected from gameserver
+[ 2023-07-23 23:35:14,401 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 23:35:14,407 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:35:15,349 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-23 23:35:18,493 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 23:35:19,542 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:35:23,639 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-23 23:35:23,647 ] Disconnected from gameserver
+[ 2023-07-23 23:35:24,942 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-23 23:35:24,949 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:35:25,470 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-23 23:35:25,887 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 00:01:52,440 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 00:01:52,590 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 00:01:52,624 ] Disconnected from gameserver
+[ 2023-07-24 00:04:15,712 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 00:04:16,875 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 00:04:16,885 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 00:04:17,769 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 00:04:20,974 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "Connection refused" )
+[ 2023-07-24 00:04:21,997 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 00:04:24,023 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 00:10:12,949 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 00:10:13,064 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 00:10:13,096 ] Disconnected from gameserver
+[ 2023-07-24 00:10:13,224 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 03:30:46,335 ] Using spritesheet cache size of 910
+[ 2023-07-24 03:30:48,281 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 03:30:48,780 ] Asset loading complete
+[ 2023-07-24 03:30:52,781 ] All sound assets loaded
+[ 2023-07-24 03:31:06,251 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 03:31:07,800 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-24 03:31:07,800 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-24 03:31:07,800 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-24 03:31:07,947 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Holaa" )
+[ 2023-07-24 03:31:07,961 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 03:31:08,866 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 03:31:11,512 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 03:49:09,761 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 03:49:09,926 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 03:49:09,972 ] Disconnected from gameserver
+[ 2023-07-24 03:49:14,375 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 15:19:33,335 ] Using spritesheet cache size of 910
+[ 2023-07-24 15:19:35,456 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 15:19:35,937 ] Asset loading complete
+[ 2023-07-24 15:19:39,597 ] All sound assets loaded
+[ 2023-07-24 15:19:51,814 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 15:19:52,570 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-24 15:19:52,570 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-24 15:19:52,570 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-24 15:19:52,710 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 15:19:52,723 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 15:19:52,733 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 15:19:53,629 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 15:23:55,512 ] Using spritesheet cache size of 910
+[ 2023-07-24 15:23:56,415 ] Asset loading complete
+[ 2023-07-24 15:23:57,405 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 15:23:59,897 ] All sound assets loaded
+[ 2023-07-24 15:24:23,041 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 15:24:26,876 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-24 15:24:26,876 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-24 15:24:26,876 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-24 15:24:26,973 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-07-24 15:24:26,985 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 15:24:26,998 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 15:24:27,921 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 15:27:09,700 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 15:27:09,813 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 15:27:09,839 ] Disconnected from gameserver
+[ 2023-07-24 15:27:12,499 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 15:27:14,250 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-24 15:27:14,252 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 15:27:14,269 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 15:27:15,200 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:18:07,896 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 16:18:07,963 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 16:18:08,037 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 16:18:08,068 ] Disconnected from gameserver
+[ 2023-07-24 16:18:08,121 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 16:18:08,170 ] Disconnected from gameserver
+[ 2023-07-24 16:18:51,892 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:18:53,069 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 16:18:53,080 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:18:53,094 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:18:53,938 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:18:55,652 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:18:56,641 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-24 16:18:56,649 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:18:56,662 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:18:57,534 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:19:04,395 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220385 found"
+[ 2023-07-24 16:19:04,395 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231525 found"
+[ 2023-07-24 16:19:04,395 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231525 found"
+[ 2023-07-24 16:19:04,396 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231420 found"
+[ 2023-07-24 16:37:47,449 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 16:37:47,515 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 16:37:47,589 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 16:37:47,621 ] Disconnected from gameserver
+[ 2023-07-24 16:37:47,665 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 16:37:47,709 ] Disconnected from gameserver
+[ 2023-07-24 16:39:35,647 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:39:36,687 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 16:39:36,696 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:39:36,709 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:39:37,629 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:39:44,422 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:39:45,645 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-24 16:39:45,652 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:39:45,664 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:39:46,586 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:47:05,539 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 16:47:05,605 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 16:47:05,727 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 16:47:05,760 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 16:47:05,767 ] Disconnected from gameserver
+[ 2023-07-24 16:47:05,816 ] Disconnected from gameserver
+[ 2023-07-24 16:48:21,253 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:48:22,373 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 16:48:22,382 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:48:22,393 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:48:23,284 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:48:53,339 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 16:48:54,923 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-24 16:48:54,932 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:48:54,942 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 16:48:55,842 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:43:59,132 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 19:43:59,194 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 19:43:59,307 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 19:43:59,336 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 19:43:59,363 ] Disconnected from gameserver
+[ 2023-07-24 19:43:59,397 ] Disconnected from gameserver
+[ 2023-07-24 19:45:44,626 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:45:45,784 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 19:45:45,794 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:45:45,806 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:45:46,648 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:45:48,448 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:45:50,705 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-24 19:45:50,713 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:45:50,716 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:45:51,594 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:45:56,922 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231418 found"
+[ 2023-07-24 19:45:56,922 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220438 found"
+[ 2023-07-24 19:45:56,922 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231521 found"
+[ 2023-07-24 19:50:02,639 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 19:50:02,834 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 19:50:02,884 ] Disconnected from gameserver
+[ 2023-07-24 19:50:03,000 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:50:05,675 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-07-24 19:50:05,683 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:50:05,694 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:50:06,587 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:52:50,598 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:52:55,193 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 19:52:55,330 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 19:52:55,362 ] Disconnected from gameserver
+[ 2023-07-24 19:52:55,687 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sorcerer Sample" )
+[ 2023-07-24 19:52:55,695 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:52:55,715 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:52:56,593 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:53:28,263 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:53:38,302 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:53:46,894 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:53:51,141 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 19:53:51,269 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 19:53:51,305 ] Disconnected from gameserver
+[ 2023-07-24 19:53:51,422 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:53:52,516 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-07-24 19:53:52,523 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:53:52,537 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:53:53,407 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:56:18,920 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:56:21,584 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 19:56:21,804 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 19:56:21,857 ] Disconnected from gameserver
+[ 2023-07-24 19:56:22,344 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-07-24 19:56:22,360 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:56:22,382 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 19:56:23,200 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 19:57:09,187 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 19:57:09,316 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 19:57:09,343 ] Disconnected from gameserver
+[ 2023-07-24 19:57:09,455 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:17:14,267 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 20:17:14,382 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 20:17:14,418 ] Disconnected from gameserver
+[ 2023-07-24 20:19:43,178 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:19:46,364 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 20:19:46,374 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:19:47,271 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:19:50,436 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:20:01,541 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231525 found"
+[ 2023-07-24 20:20:01,541 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231477 found"
+[ 2023-07-24 20:20:01,541 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231420 found"
+[ 2023-07-24 20:20:01,541 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231464 found"
+[ 2023-07-24 20:20:01,542 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342220385 found"
+[ 2023-07-24 20:20:04,407 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 20:20:04,539 ] Disconnected from gameserver
+[ 2023-07-24 20:21:28,408 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:21:29,174 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 20:21:29,182 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:21:29,194 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:21:30,123 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:22:14,365 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:22:16,363 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 20:22:16,460 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 20:22:16,486 ] Disconnected from gameserver
+[ 2023-07-24 20:22:16,693 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
+[ 2023-07-24 20:22:16,701 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:22:16,717 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:22:17,629 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:23:06,866 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:23:08,714 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 20:23:08,818 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 20:23:08,839 ] Disconnected from gameserver
+[ 2023-07-24 20:23:09,062 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2023-07-24 20:23:09,070 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:23:09,082 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:23:09,996 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:23:44,048 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:23:45,812 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 20:23:45,908 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 20:23:45,928 ] Disconnected from gameserver
+[ 2023-07-24 20:23:46,125 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
+[ 2023-07-24 20:23:46,135 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:23:46,151 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:23:47,094 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:24:18,715 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:24:20,562 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 20:24:20,661 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 20:24:20,685 ] Disconnected from gameserver
+[ 2023-07-24 20:24:20,895 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-24 20:24:20,902 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:24:20,914 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:24:21,845 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:24:32,568 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:24:33,867 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 20:24:33,991 ] Disconnected from gameserver
+[ 2023-07-24 20:24:34,207 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sorcerer Sample" )
+[ 2023-07-24 20:24:34,214 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:24:34,225 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:24:35,150 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:24:54,364 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 20:24:57,810 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 20:24:57,913 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 20:24:57,934 ] Disconnected from gameserver
+[ 2023-07-24 20:24:58,156 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 20:24:58,163 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:24:58,182 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 20:24:59,110 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 21:43:06,515 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 21:43:06,637 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 21:43:06,659 ] Disconnected from gameserver
+[ 2023-07-24 21:43:06,794 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:31:38,986 ] Using spritesheet cache size of 910
+[ 2023-07-24 22:31:39,962 ] All sound assets loaded
+[ 2023-07-24 22:31:39,962 ] All sound assets loaded
+[ 2023-07-24 22:31:39,962 ] All sound assets loaded
+[ 2023-07-24 22:31:41,291 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 22:31:41,724 ] Asset loading complete
+[ 2023-07-24 22:31:46,851 ] All sound assets loaded
+[ 2023-07-24 22:31:56,032 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:31:58,412 ] BattlEye: "Initialized (v1.246)"
+[ 2023-07-24 22:31:58,412 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-07-24 22:31:58,412 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-07-24 22:31:58,524 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 22:31:58,527 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:31:59,045 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:31:59,462 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:39:08,315 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 22:39:08,438 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 22:39:08,469 ] Disconnected from gameserver
+[ 2023-07-24 22:41:36,467 ] Didn't send news query with params ( 0 2 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:41:37,953 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 22:41:37,961 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:41:38,480 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:41:38,896 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:41:46,322 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:41:48,565 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 22:41:48,682 ] Disconnected from gameserver
+[ 2023-07-24 22:41:48,887 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Propolio" )
+[ 2023-07-24 22:41:48,894 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:41:48,914 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:41:49,837 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:41:51,247 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231417 found"
+[ 2023-07-24 22:41:51,247 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231359 found"
+[ 2023-07-24 22:41:51,247 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231525 found"
+[ 2023-07-24 22:41:51,248 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231419 found"
+[ 2023-07-24 22:41:51,248 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342231360 found"
+[ 2023-07-24 22:51:36,291 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:51:38,340 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 22:51:38,449 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 22:51:38,472 ] Disconnected from gameserver
+[ 2023-07-24 22:51:38,708 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 22:51:38,716 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:51:38,720 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:51:39,671 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:54:47,102 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 22:54:47,209 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 22:54:47,238 ] Disconnected from gameserver
+[ 2023-07-24 22:57:56,729 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:57:57,679 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 22:57:57,686 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:57:57,698 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 22:57:58,628 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 22:58:05,440 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342251368 found"
+[ 2023-07-24 22:58:05,441 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342246706 found"
+[ 2023-07-24 22:59:06,466 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 22:59:06,584 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 22:59:06,608 ] Disconnected from gameserver
+[ 2023-07-24 23:00:17,734 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 23:00:18,682 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 23:00:18,689 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 23:00:19,215 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 23:00:19,615 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 23:00:30,040 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342246662 found"
+[ 2023-07-24 23:01:15,165 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 23:01:15,305 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 23:01:15,355 ] Disconnected from gameserver
+[ 2023-07-24 23:01:51,366 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 23:01:52,485 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 23:01:52,493 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 23:01:53,445 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 23:01:55,561 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 23:02:06,368 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342246662 found"
+[ 2023-07-24 23:02:06,368 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1342246691 found"
+[ 2023-07-24 23:06:54,338 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 23:06:54,460 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 23:06:54,494 ] Disconnected from gameserver
+[ 2023-07-24 23:07:35,001 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 23:07:36,167 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 23:07:36,174 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 23:07:36,186 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 23:07:37,115 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 23:10:30,869 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-24 23:10:30,985 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-24 23:10:31,012 ] Disconnected from gameserver
+[ 2023-07-24 23:40:12,660 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-24 23:40:16,115 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-24 23:40:16,116 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 23:40:16,135 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-24 23:40:17,022 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 00:06:51,286 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 00:06:51,585 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-25 00:06:51,682 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-25 00:06:51,704 ] Disconnected from gameserver
+[ 2023-07-25 00:06:51,899 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-25 00:06:51,909 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-25 00:06:51,925 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-25 00:06:52,850 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 00:12:57,160 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 00:12:57,443 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-25 00:12:57,546 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-25 00:12:57,569 ] Disconnected from gameserver
+[ 2023-07-25 00:12:57,801 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-25 00:12:57,809 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-25 00:12:57,826 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-25 00:12:58,725 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 00:14:59,212 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 00:14:59,430 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-25 00:14:59,539 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-25 00:14:59,566 ] Disconnected from gameserver
+[ 2023-07-25 00:14:59,788 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-25 00:14:59,795 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-25 00:14:59,811 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-25 00:15:00,727 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 00:29:34,474 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 00:29:34,757 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Endless"  was disconnected ( "The remote host closed the connection" )
+[ 2023-07-25 00:29:34,870 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-25 00:29:34,891 ] Disconnected from gameserver
+[ 2023-07-25 00:29:35,089 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Administrador" )
+[ 2023-07-25 00:29:35,091 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-25 00:29:35,110 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Endless"
+[ 2023-07-25 00:29:36,039 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2023-07-25 15:42:41,349 ] Using spritesheet cache size of 910
+[ 2023-07-25 15:42:42,260 ] Asset loading complete
+[ 2023-07-25 15:42:43,903 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-25 15:42:45,987 ] All sound assets loaded
+[ 2023-07-25 15:46:05,155 ] Using spritesheet cache size of 910
+[ 2023-07-25 15:46:06,025 ] Asset loading complete
+[ 2023-07-25 15:46:07,709 ] libpng warning: iCCP: known incorrect sRGB profile
+[ 2023-07-25 15:46:09,561 ] All sound assets loaded

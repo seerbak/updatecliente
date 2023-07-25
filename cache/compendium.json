@@ -1,0 +1,16 @@
+{
+    "categorycounts": {
+        "CLIENT FEATURES": 5,
+        "GAME CONTENTS": 2,
+        "MAJOR UPDATES": 4,
+        "SUPPORT": 1,
+        "USEFUL INFO": 3
+    },
+    "gamenews": [
+    ],
+    "idOfNewestReadEntry": 0,
+    "isreturner": true,
+    "lastupdatetimestamp": 1690252896,
+    "maxeditdate": 1590979202,
+    "showrewardnews": false
+}
